@@ -1,6 +1,7 @@
-# EXPERIMENT NO 2 Fitting Poisson  distribution
+# EXP No:2 Fitting Poisson  distribution
 
-# DATE
+# Date :
+05/10/24
 
 # Aim : 
 
