@@ -1,4 +1,7 @@
-![image](https://github.com/user-attachments/assets/000fd136-5640-432b-967e-c167629259e5)# Fitting Poisson  distribution
+# EXPERIMENT NO 2 Fitting Poisson  distribution
+
+# DATE
+
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -76,6 +79,7 @@ else:
 
 # Output : 
 
+![Screenshot (26)](https://github.com/user-attachments/assets/c91e1edc-aa9f-41b6-bf0d-b93a3a05f8a9)
 
 
 # Results
